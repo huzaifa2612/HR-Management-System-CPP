@@ -26,6 +26,11 @@ The codebase is engineered for maximum modularity and scalability:
 ### Prerequisites
 * A standard C++ compiler (e.g., GCC, MinGW)
 
+ ## 👨‍💻 Developers
+
+**Muhammad Huzaifa** : [LinkedIn](https://www.linkedin.com/in/muhammad-huzaifa-55a666308/)
+
+
 ### Installation & Execution
 ```bash
 # 1. Clone the repository
@@ -39,6 +44,3 @@ g++ main.cpp -o hr_system
 
 # 4. Run the application
 ./hr_system
-## 👨‍💻 Developers
-
-**Muhammad Huzaifa** : [LinkedIn](https://www.linkedin.com/in/muhammad-huzaifa-55a666308/)
